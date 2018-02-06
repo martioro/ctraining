@@ -1,6 +1,9 @@
 # ctraining
 Some simple projects in C.
 
+cd /Users/martinrodahl/Cprog/ctraining //Getting to the correct folder on the suckingMac.
+
+
 Useful commands:
 
 git add * //Adding all files in local folder.
